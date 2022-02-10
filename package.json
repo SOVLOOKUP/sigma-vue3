@@ -12,10 +12,10 @@
     "graphology": "^0.23.2",
     "graphology-types": "^0.23.0",
     "sigma": "^2.2.0",
-    "vue": "^3.2.25",
+    "vue": "^3.2.30",
     "@vitejs/plugin-vue": "^2.2.0",
-    "typescript": "^4.5.4",
+    "typescript": "^4.5.5",
     "vite": "^2.8.0",
-    "vue-tsc": "^0.29.8"
+    "vue-tsc": "^0.31.2"
   }
 }
